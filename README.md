@@ -1,6 +1,8 @@
 # Tree-Ring-Widths-Stringing
 Data illustration: stringing data on tree-ring-widths.
+
 Author: Harold Antonio Hernández Roig
+
 June, 2019
 
 ## General Description:
